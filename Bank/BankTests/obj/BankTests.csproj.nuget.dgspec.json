@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Inteli\\Documents\\Estudos\\Bank\\BankTests\\BankTests.csproj": {}
+    "C:\\Users\\Inteli\\Documents\\Projetos modulos\\Ponderada-Sem3-Mod9\\Bank\\BankTests\\BankTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Inteli\\Documents\\Estudos\\Bank\\BankTests\\BankTests.csproj": {
+    "C:\\Users\\Inteli\\Documents\\Projetos modulos\\Ponderada-Sem3-Mod9\\Bank\\BankTests\\BankTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Inteli\\Documents\\Estudos\\Bank\\BankTests\\BankTests.csproj",
+        "projectUniqueName": "C:\\Users\\Inteli\\Documents\\Projetos modulos\\Ponderada-Sem3-Mod9\\Bank\\BankTests\\BankTests.csproj",
         "projectName": "BankTests",
-        "projectPath": "C:\\Users\\Inteli\\Documents\\Estudos\\Bank\\BankTests\\BankTests.csproj",
+        "projectPath": "C:\\Users\\Inteli\\Documents\\Projetos modulos\\Ponderada-Sem3-Mod9\\Bank\\BankTests\\BankTests.csproj",
         "packagesPath": "C:\\Users\\Inteli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Inteli\\Documents\\Estudos\\Bank\\BankTests\\obj\\",
+        "outputPath": "C:\\Users\\Inteli\\Documents\\Projetos modulos\\Ponderada-Sem3-Mod9\\Bank\\BankTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Inteli\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Inteli\\Documents\\Estudos\\Bank\\Bank\\Bank.csproj": {
-                "projectPath": "C:\\Users\\Inteli\\Documents\\Estudos\\Bank\\Bank\\Bank.csproj"
+              "C:\\Users\\Inteli\\Documents\\Projetos modulos\\Ponderada-Sem3-Mod9\\Bank\\Bank\\Bank.csproj": {
+                "projectPath": "C:\\Users\\Inteli\\Documents\\Projetos modulos\\Ponderada-Sem3-Mod9\\Bank\\Bank\\Bank.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\Inteli\\Documents\\Estudos\\Bank\\Bank\\Bank.csproj": {
+    "C:\\Users\\Inteli\\Documents\\Projetos modulos\\Ponderada-Sem3-Mod9\\Bank\\Bank\\Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Inteli\\Documents\\Estudos\\Bank\\Bank\\Bank.csproj",
+        "projectUniqueName": "C:\\Users\\Inteli\\Documents\\Projetos modulos\\Ponderada-Sem3-Mod9\\Bank\\Bank\\Bank.csproj",
         "projectName": "Bank",
-        "projectPath": "C:\\Users\\Inteli\\Documents\\Estudos\\Bank\\Bank\\Bank.csproj",
+        "projectPath": "C:\\Users\\Inteli\\Documents\\Projetos modulos\\Ponderada-Sem3-Mod9\\Bank\\Bank\\Bank.csproj",
         "packagesPath": "C:\\Users\\Inteli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Inteli\\Documents\\Estudos\\Bank\\Bank\\obj\\",
+        "outputPath": "C:\\Users\\Inteli\\Documents\\Projetos modulos\\Ponderada-Sem3-Mod9\\Bank\\Bank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Inteli\\AppData\\Roaming\\NuGet\\NuGet.Config",

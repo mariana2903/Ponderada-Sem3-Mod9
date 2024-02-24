@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TGdR7KhEHjZuxQLbyUHToOnWsWjJUH5+w8MXA3hmZhb2p7gy32wUDdSUipnAkmx8vLUYEBzD1CYfhWDV4wMNfA==",
+  "dgSpecHash": "nElK/6P151r3akbudI4ahZgox09vvGVdx38/UcBiX5TQG8Eqz+w/1jtG+p5kiU172wsem8SLCTDNmDAMQ+O40Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Inteli\\Documents\\Estudos\\Bank\\BankTests\\BankTests.csproj",
+  "projectFilePath": "C:\\Users\\Inteli\\Documents\\Projetos modulos\\Ponderada-Sem3-Mod9\\Bank\\BankTests\\BankTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Inteli\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Inteli\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
