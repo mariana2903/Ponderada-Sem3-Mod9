@@ -36,5 +36,6 @@ Alguns conceitos aprendidos durante o exercício, e diversos conceitos fundament
 
   ## Resultado Final do código em execução
 
+![Imagem resultado](https://github.com/mariana2903/Ponderada-Sem3-Mod9/blob/main/Imagem_resultado_testes.jpeg "Imagem resultado")
 
 
